@@ -30,3 +30,5 @@ It spends my whole semester to make a ideal model to run to map, but it very wor
 Now, it's your turn. Enjoy yourself.
 
 現在輪到你了。祝你好運。
+
+(P.S. the trained model is a special model which may only suitable for my custom map)

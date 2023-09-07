@@ -25,3 +25,5 @@ Now, it's your turn. Enjoy yourself.
 
 它花了我整個學期的時間去訓練出符合我設計的地圖的模型，很累，但它非常值得。
 現在輪到你了，祝你好運。
+
+[![DEMO](https://github.com/jackson09255921/jetbot/blob/main/self-drive.png)](https://www.youtube.com/watch?v=3HcL5jyReQI)
